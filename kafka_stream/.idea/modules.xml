@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kafka_stream.iml" filepath="$PROJECT_DIR$/kafka_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v01021/v01021.iml" filepath="$PROJECT_DIR$/v01021/v01021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v110/v110.iml" filepath="$PROJECT_DIR$/v110/v110.iml" />
+    </modules>
+  </component>
+</project>

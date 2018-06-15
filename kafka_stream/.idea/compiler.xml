@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="utils" />
+        <module name="v01021" />
+        <module name="v110" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kafka_stream" target="1.8" />
+      <module name="utils" target="1.8" />
+      <module name="v01021" target="1.8" />
+      <module name="v110" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
